@@ -10,6 +10,5 @@ public class IntRepresentation {
         System.out.println(h);
         System.out.println(a);
         System.out.println(r);
-
     }
 }
